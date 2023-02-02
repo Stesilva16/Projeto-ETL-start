@@ -13,3 +13,8 @@ Esse é um projeto de aquecimento feito no bootcamp.
 - Além disso, utilizar pelo menos duas Window Functions e gerar pelo menos 5 insights utilizando SparkSQL.
 - As ferramentas utilizadas serão Colab ou algum IDES e Google Cloud.
 - O projeto deve ser entregue com o certificado no Mongo Atlas e uma key de autenticação para acesso ao Mongo Atlas. O código também deve ser enviado juntamente com o link Colab.
+
+
+
+Link do [colab
+](https://colab.research.google.com/drive/1MvyFlHl3CgIEChoMGa2Lo8RV48YAPmaB#scrollTo=SeFoYduX_kP9)!
